@@ -6,4 +6,4 @@ const num2 = 2;
 
 const multiply = num1 * num2;
 
-const random = Math.random
+const random = Math.random(random * 10)
